@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/:path*",
-      "destination": "https://aiproxy.me/:path*"
+      "destination": "https://fans.aiproxy.me/:path*"
     }
   ]
 }
