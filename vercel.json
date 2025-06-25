@@ -1,12 +1,6 @@
-
 {
 	"rewrites": [{
-			"source": "/web/:path*",
-			"destination": "https://aiproxy.me/:path*"
-		},
-		{
-			"source": "/:path*",
-			"destination": "https://fans.aiproxy.me/:path*"
-		}
-	]
+		"source": "/:path*",
+		"destination": "https://fans.aiproxy.me/:path*"
+	}]
 }
